@@ -1,10 +1,10 @@
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
-// coding.forEach( function (val){
+// coding.forEach( function (val){ //it is function
 //     console.log(val);
 // } )
 
-// coding.forEach( (item) => {
+// coding.forEach( (item) => { //it is array 
 //     console.log(item);
 // } )
 
